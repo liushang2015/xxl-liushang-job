@@ -1,0 +1,12 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÉĞ£Òüÿÿÿÿ
+|squid:UselessImportCheck"LRemove this unused import 'org.springframework.scheduling.annotation.Async'.(İë€Ûúÿÿÿÿ8²ÙØÙê-
+squid:UselessImportCheck"]Remove this unused import 'org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor'.(’Úë¥ùÿÿÿÿ8²ÙØÙê-
+Vsquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü8²ÙØÙê-
+asquid:UselessImportCheck
+"6Remove this unused import 'javax.annotation.Resource'.(î¾Ì—8²ÙØÙê-
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8²ÙØÙê-
+osquid:UselessImportCheck"DRemove this unused import 'java.util.concurrent.ExecutionException'.(¡£ØÍ8²ÙØÙê-
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8²ÙØÙê-
+hsquid:UselessImportCheck"8Remove this unused import 'java.util.concurrent.Future'.(á¬øíıÿÿÿÿ8²ÙØÙê-

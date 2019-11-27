@@ -1,0 +1,22 @@
+logging:
+  config: classpath:logback.xml
+ribbon:
+  ConnectTimeout: 6000
+  ReadTimeout: 600000
+server:
+  port: 8300
+xxl:
+  job:
+    accessToken: ''
+    admin:
+      addresses: http://localhost:8200/xxl-job-admin
+    executor:
+      ### xxl-job executor address
+      appname: xxl-job-executor-sample
+      ##本地ip
+      ip: localhost
+      ### xxl-job, access token
+      logpath: /data/applogs/xxl-job/jobhandler
+      ### xxl-job log retention days
+      logretentiondays: -1
+      port: 9998
